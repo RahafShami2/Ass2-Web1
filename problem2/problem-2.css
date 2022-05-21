@@ -1,0 +1,23 @@
+body{
+	background: #123456;
+}
+h1{
+	color: teal;
+}
+h2{
+	color:teal;
+}
+.instruction{
+	border:2px;
+	border: dashed;
+	border-color: red;
+}
+#recipe-list{
+	width: 40% ;
+}
+#recipe-area{
+	width: 60%;
+}
+#ingredients{
+	font-family: 'Krona One', sans-serif;
+}
